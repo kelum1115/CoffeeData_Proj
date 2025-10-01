@@ -17,7 +17,7 @@ Bangalore had a estimate of  3,080,000 million with a rank of 1
 
 Chennai had a estimate of  2,780,000 million with a rank of 6.
 
-1. What’s the total revenue generated from coffee sales across all cities in last qtr of 2023?
+2. What’s the total revenue generated from coffee sales across all cities in last qtr of 2023?
 
 **Total revenue from Coffee Sales**
 
@@ -31,7 +31,7 @@ Jaipur had 248,580
 
 Delhi had 238,490
 
-1. How many units of each coffee product have been sold?
+3. How many units of each coffee product have been sold?
 
 **Sales count for each product**
 
@@ -45,7 +45,7 @@ Coffee Beans (500g) sold 1,218 units.
 
 Tote Bag with Coffee Design sold 776 units.
 
-1. What is the average sales amount per customer in each city?
+4. What is the average sales amount per customer in each city?
 
 **Average sales amount per city**
 
@@ -59,7 +59,7 @@ Jaipur average sales amount per customer is 11,644.20
 
 Delhi average sales amount per customer is  11,035.59
 
-1. Provide a list of cities along with their populations and estimated coffee consumers.
+5. Provide a list of cities along with their populations and estimated coffee consumers.
 
 **City population and coffee consumers**
 
@@ -75,7 +75,7 @@ Chennai population is 11,100,000 with a coffee consumption of 2,780,000 million
 
 …
 
-1. Top 3 products in each city on sales volume
+6. Top 3 products in each city on sales volume
 
 **Top selling products by city**
 
@@ -105,19 +105,19 @@ Delhi top 3 products
 
 **Customer segmentation by city** 
 
-1. How many unique customers are there in each city who have purchased coffee products?
+7. How many unique customers are there in each city who have purchased coffee products?
 
 **Impact of estimated rent on sales**
 
-1. Find each city and their average sale per customer and avg rent per customer 
+8. Find each city and their average sale per customer and avg rent per customer 
 
 **Monthly Sales Growth**
 
-1. Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
+9. Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
 
 **Market potential Analysis**
 
-1. Identify top 3 city based on highest sales, return city name, total sale, total sale, total rent, total customers, estimated coffee consumers.
+10. Identify top 3 city based on highest sales, return city name, total sale, total sale, total rent, total customers, estimated coffee consumers.
 
 ### Recommendations:
 
